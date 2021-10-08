@@ -1,7 +1,11 @@
 # cookiesRecipe
 
 ## Ingrédients
-
+- 150 gr de **farine**
+- 100 gr de **sucre**
+- 150 gr de **beurre**
+- 1 **oeuf**
+- 100 gr de **chocolat noir**
 
 ## Instructions
 - Préchauffer le four à 180°C
