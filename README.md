@@ -5,5 +5,6 @@
 - 100 gr de **sucre**
 - 150 gr de **beurre**
 - 1 **oeuf**
+- 100 gr de **chocolat noir**
 
 ## Instructions
