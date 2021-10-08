@@ -1,6 +1,7 @@
 # cookiesRecipe
 
 ## Ingrédients
-- 150 grammes de **farine**
+- 150 gr de **farine**
+- 100 gr de **sucre**
 
 ## Instructions
