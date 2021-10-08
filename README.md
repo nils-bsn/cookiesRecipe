@@ -9,3 +9,4 @@
 - casser le **chocolat noir** en petit morceaux et le mélanger au reste de la préparation
 - former de petites boules et les déposer sur la plaque de cuisson
 - enfourner pour 10 min de cuisson
+- bon appétit !
